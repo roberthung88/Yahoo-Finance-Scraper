@@ -1,6 +1,6 @@
 # Yahoo-Finance-Scraper
 
-This python application scraps stock prices from Yahoo Finance using 3rd party library yfinance. It takes in one or more more stock tick symbols and returns each of the stocks’ high, low, open, and close prices today. Results are exported to an excel file **`result.csv`**.
+This python application scraps stock prices from Yahoo Finance using 3rd party library yfinance. It takes in one or more more stock tick symbols and returns each of the stocks’ high, low, open, and close prices today. Results are exported to a csv file **`result.csv`**.
 
 ## Installation and Usage
 
