@@ -32,7 +32,7 @@ rm -r env
 ```
 The program will prompt for tick symbols. Please separate them with whitespace. It will also ask whether you'd like to utilize asynchronous multithreading for mass downloading. Please enter 1 (Yes) or 0 (No).
 
-Alternatively, use input redirection:
+Alternatively, use input redirection. A test file **`input.txt`** is provided:
 ```bash
 python3 scrap_stock.py < input.txt
 ```
